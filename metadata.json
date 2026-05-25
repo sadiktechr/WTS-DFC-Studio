@@ -1,0 +1,5 @@
+{
+  "name": "OCR-to-HTML Pro",
+  "description": "A high-precision tabular data extraction engine that converts images of tables into clean, valid HTML code using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
